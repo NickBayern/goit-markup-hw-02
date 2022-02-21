@@ -9,7 +9,7 @@
   font-style: normal;
   font-weight: bold;
   font-size: 26px;
-  line-height: 1, 93;
+  line-height: 1.93;
   latter-spacing: 0.03em;
 
   color: #2196f3;
@@ -20,7 +20,7 @@
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   latter-spacing: 0.02em;
   cursor: pointer;
 
@@ -31,14 +31,13 @@
   color: #2196f3;
 }
 
-.email-adress {
+.email-adress-link {
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   letter-spacing: 0.02em;
-  text-transform: uppercase;
   color: #2196f3;
 }
 .email-adress:hover,
@@ -46,12 +45,12 @@
   color: #2196f3;
 }
 
-.contact-phone {
+.contact-phone-link {
   font-family: Roboto;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
-  line-height: 16px;
+  line-height: 1.14;
   letter-spacing: 0.02em;
   text-align: left;
 
@@ -64,7 +63,7 @@
   font-size: 44px;
   font-style: normal;
   font-weight: 900;
-  line-height: 1, 36;
+  line-height: 1.36;
   letter-spacing: 6%;
   text-align: center;
   color: #ffffff;
@@ -76,7 +75,7 @@
   font-family: inherit;
   font-weight: bold;
   font-size: 16px;
-  line-height: 1, 87;
+  line-height: 1.87;
   letter-spacing: 0.06em;
   cursor: pointer;
   background: #2196f3;
@@ -96,61 +95,61 @@
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 1, 71;
+  line-height: 1.71;
   letter-spacing: 0, 03em;
   color: #ffffff;
 }
 
 .list-header {
-  font-size: Roboto;
+  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 14px;
-  line-height: 1, 14;
-  letter-spacing: 0, 03em;
-  text-transform: uppercase;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
   color: #212121;
 }
 
 .paragraph {
-  font-size: Roboto;
+  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
-  line-height: 1, 71;
-  letter-spacing: 0, 03em;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
 
   color: #757575;
 }
 
 .header_section {
-  font-size: Roboto;
+  font-family: Roboto;
   font-style: normal;
   font-weight: bold;
   font-size: 36px;
-  line-height: 1, 16;
-  letter-spacing: 0, 03em;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
 
   color: #211221;
 }
 
 .footnote {
-  font-size: Roboto;
+  font-family: Roboto;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
-  line-height: 1, 19;
+  line-height: 1.18;
   letter-spacing: 0, 03em;
 
   color: #757575;
 }
 
 .headnote {
-  font-size: Roboto;
+  font-family: Roboto;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 19;
+  line-height: 1.18;
   letter-spacing: 0, 03em;
 
   color: #212121;
@@ -160,8 +159,21 @@
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 6;
-  letter-spacing: 0, 03em;
+  line-height: 1.6;
+  letter-spacing: 0.03em;
   color: #211221;
   background-color: #f5f4fa;
+}
+.contacts-footer {
+  font-style: normal;
+  font-family: Roboto;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.portfolio-email {
+  color: #757575;
 }

@@ -16,8 +16,6 @@
 }
 
 .nav-list-link {
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -32,8 +30,6 @@
 }
 
 .email-adress-link {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -47,7 +43,6 @@
 }
 
 .contact-phone-link {
-  font-family: Roboto;
   font-size: 14px;
   font-style: normal;
   font-weight: 500;
@@ -61,9 +56,7 @@
 
 .tittle_h1 {
   background-color: #212121;
-  font-family: Roboto;
   font-size: 44px;
-  font-style: normal;
   font-weight: 900;
   line-height: 1.36;
   letter-spacing: 6%;
@@ -72,7 +65,6 @@
 }
 
 .model-btn {
-  font-family: Roboto;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
@@ -92,8 +84,6 @@
   background: #2f303a;
 }
 .location {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -102,18 +92,12 @@
 }
 
 .list-header {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
   color: #212121;
 }
-.portfolio_list_header {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
+.portfolio-list-header {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
@@ -121,8 +105,6 @@
 }
 
 .paragraph {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -132,9 +114,6 @@
 }
 
 .header_section {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
   font-size: 36px;
   line-height: 1.16;
   text-align: center;
@@ -144,8 +123,6 @@
 }
 
 .footnote {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 1.18;
@@ -155,8 +132,6 @@
 }
 
 .headnote {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
@@ -165,8 +140,6 @@
   color: #212121;
 }
 .main_button {
-  font-family: Roboto;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.6;
@@ -175,8 +148,6 @@
   background-color: #f5f4fa;
 }
 .contacts-footer {
-  font-style: normal;
-  font-family: Roboto;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
@@ -187,4 +158,9 @@
 
 .portfolio-email {
   color: #757575;
+}
+
+.body {
+  font-family: Roboto;
+  font-style: normal;
 }

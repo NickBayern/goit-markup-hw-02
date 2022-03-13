@@ -19,7 +19,7 @@
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
-  latter-spacing: 0.02em;
+  letter-spacing: 0.02em;
   cursor: pointer;
 
   color: #212121;
@@ -65,6 +65,7 @@
 }
 
 .model-btn {
+  font-family: Roboto;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
@@ -84,6 +85,7 @@
   background: #2f303a;
 }
 .location {
+  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
